@@ -1,0 +1,6 @@
+{
+  "name": "KRI Archive",
+  "description": "Exclusive editorial fashion collection and shopping experience for the modern minimalist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
